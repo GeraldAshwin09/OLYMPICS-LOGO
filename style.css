@@ -1,0 +1,17 @@
+
+h1
+{
+	color: white; 
+	font-size: 40px;
+}
+.bg {
+	background-image:url("wood.jpg");
+	background-size: cover;
+}
+
+#mycanvas{
+border-width:10px;
+border-style: ridge;
+background-color: white;
+}
+
